@@ -36,7 +36,7 @@ const prompts = [
     },
     {
         key: 7, 
-        title: 'Prompt Eight - Plot Twist by sstrangepropmts',
+        title: 'Prompt Eight - Plot Twist by sstrangeprompts',
         description: ' Due to the horrible crimes you have committed against the nation, you have been sent to court, and after a quick trial, sentenced to death. \n Just as you\'re being taken away, the doors to the courtroom open wide and in storms a person frantically yelling that they are in possession of evidence that will prove your innocence. The person looks at you and discreetly winds. \n This sudden twist is strange for two specific reasons: \n 1) You have definitely committed all those crimes; \n 2) You don\'t know who the fuck this person is.'
     },
     {
@@ -123,6 +123,131 @@ const prompts = [
         key: 24,
         title: 'Prompt Twenty-Five - I need Help... by @theories-fans-andwombats',
         description: ' "I need help," the Hero said, breathing hard as they kneeled in the mud. The Villain crouched down before them, \n "Why is that?" \n "Because there\'s someone worse out there I need to deal with. Contrary to what you might think, you aren\'t the worse person I\'ve had to face. And I..." the Hero trailed off, glancing away. \n "And you what?" \n "I-i-i..." \n The Hero made a choking sound, their shoulders slumping forward. Crying, the Villain realised the Hero was crying. They leaned closer, taking a good look at their face. The cuts on the forehead and cheek seemed shallow enough, but now that they looked, the Hero\'s eyes were a pale, cloudy colour and seemed unfocused. The Villain felt their blood run cold. \n "They blinded you?" They whispered. The Hero nodded.'
+    },
+    {
+        key: 25,
+        title: 'Prompt Twenty-Six - Survivor',
+        description: ' This was never about winning.\n It was about survival.'
+    },
+    {
+        key: 26,
+        title: 'Prompt Twenty-Seven - Ghosts',
+        description: ' His blade pressed against my throat. "Go ahead. Kill me. Then I\'ll just be another ghost to haunt you.'
+    },
+    {
+        key: 27,
+        title: 'Prompt Twenty-Eight - What heights will you reach?',
+        description: ' To storm and ash, or stars and crows?'
+    },
+    {
+        key: 28,
+        title: 'Prompt Twenty-Nine - Reincarnation',
+        description: ' She kissed her cheek as the world around them burned. As blood bubbled from her stomach, she held a trembling hand to her lovers cheek and whispered, "See you in the next life, my love." Before turning her attention to the one who had destroyed the world, promising, "See you soon."'
+    },
+    {
+        key: 29,
+        title: 'Prompt Thirty - Shadow',
+        description: ' There is a reason I am afriad of my own shadow. You should be afraid of it too.'
+    },
+    {
+        key: 30,
+        title: 'Prompt Thirty-One - New Responsibility',
+        description: ' He turned from his kingdom, the two small lives in his arms were the only things which mattered now.'
+    },
+    {
+        key: 31,
+        title: 'Prompt Thirty-Two - Power',
+        description: '"Kings and Gods have bowed to me, what makes you think you can refuse for long?" \n "I am a Queen, darling. Those Kings and Gods bowed to me first. You should take notes."'
+    },
+    {
+        key: 32,
+        title: 'Prompt Thirty-Three - Let there be Dragons!',
+        description: 'I had always wanted a pet. The fact that it was an invisible dragon didn\'t hurt either.'
+    },
+    {
+        key: 33,
+        title: 'Prompt Thirty-Four - Beg',
+        description: 'I will deny you death until you beg me for it.'
+    },
+    {
+        key: 34,
+        title: 'Prompt Thirty-Five - Harsh Payment',
+        description: ' This was a different type of magic, a darker kind. As the whorls of darkness whipped through the air, the painful-looking black markings on the stranger\'s body suddenly made sense.'
+    },
+    {
+        key: 35,
+        title: 'Prompt Thirty-Six - Shock',
+        description: ' "It\'s strange how I\'d never noticed her before. I mean, I\'d seen her, but I\'d never really paid attention... Now, it seems like I can\'t look at anything else. Not after what she told me."'
+    },
+    {
+        key: 36,
+        title: 'Prompt Thirty-Seven - Accidental Summoning',
+        description: ' In a realm without the supernatural or magical, you have accidentally summoned a demon. As neither of you know the terms of their summoning, they cannot be controlled or returned.'
+    },
+    {
+        key: 37,
+        title: 'Prompt Thirty-Eight - Horror Challenge',
+        description: ' Create a horror story that doesn\'t involve the paranormal, supernatural, aliens or psychopaths.'
+    },
+    {
+        key: 38,
+        title: 'Prompt Thirty-Nine - Fondness for Trees is Subjective',
+        description: ' People are so fond of looking at the forest, that they neglect to look at the single tree. Consider the first tree, not the one that lastest the longest. The one that was cut down in a bid to monetise nature. What is its story and what have we lost?'
+    },
+    {
+        key: 39,
+        title: 'Prompt Fourty - Medusa',
+        description: ' Medusa the warrior. Medusa the survivor. Medusa the protector. \n Not Medusa the Monster. Not Medusa the Victim. Not Medusa the Attacker.'
+    },
+    {
+        key: 40,
+        title: 'Prompt Fourty-One - Possession',
+        description: ' Write something for the people we miss, even though they still possess out heart and mind.'
+    },
+    {
+        key: 41,
+        title: 'Prompt Fourty-Two - Jealous Flowers',
+        description: 'Sing a song, heard the tulip. \n So it sang a melody, \n Telling the beauty of Spring, \n Shadowed in its jealousy of the Daffodil.'
+    },
+    {
+        key: 42,
+        title: 'Prompt Fourty-Three - Corruption',
+        description: ' She scraped a star from her crown to her iris, blinding herself with the wonders of the universe. It stole her voice with its all encompassing vacuum as she became corrupted by an unnatural selfishness for what she now knew.'
+    },
+    {
+        key: 43,
+        title: 'Prompt Fourty-Four - Hatred for the Night Sky',
+        description: ' For so long, the night sky has inspired beautiful words. Describe it as horrendously as possible. For example, a star could be a pimple waiting to burst.'
+    },
+    {
+        key: 44,
+        title: 'Prompt Fourty-Five - Plucked Strings',
+        description: ' ...This music has no human hands.'
+    },
+    {
+        key: 45,
+        title: 'Prompt Fourty-Six - Protest for Yourself',
+        description: ' To the people who limit me creatively... genuinely and sincerely, fuck you.'
+    },
+    {
+        key: 46,
+        title: 'Prompt Fourty-Seven - Must be a Tuesday',
+        description: ' You looked up into the sky and saw a dragon flying across it. As they left your sight, you thought to yourself, \'It must be Tuesday.\''
+    },
+    {
+        key: 47,
+        title: 'Prompt Fourty-Eight - Take a Hint, Romeo!',
+        description: ' Juliet waits on the landing by oil-lamp, waiting for her Romeo to arrive. As he prostates himself below her window, she pours the burning oil onto him, setting his eyes alight. Finally, she is free.'
+    },
+    {
+        key: 48,
+        title: 'Prompt Fourty-Nine - You\'ve lost.',
+        description: ' As the chosen vessels met for their last ceremony, all were ready to sacrifice their lives for the better of their country. However, as they were being drained they realised all was not what it seemed. Something was emerging and the priest looked satisfied.'
+    },
+    {
+        key: 49,
+        title: 'Prompt Fifty - After the Battle is Won',
+        description: ' The hero has returned triumphant. Peace has spread, reaching all corners of the land. But it missed the hero. and they are fracturing.'
     }
 ]
 
